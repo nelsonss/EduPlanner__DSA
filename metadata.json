@@ -1,0 +1,5 @@
+{
+  "name": "EduPlanner DSA",
+  "description": "An intelligent instructional planning and student monitoring system for Data Structures and Algorithms courses. It empowers professors with AI agents (Evaluator, Optimizer, Analyst) to create, refine, and personalize learning experiences, keeping the 'Teacher in the Loop' as the central authority.",
+  "requestFramePermissions": []
+}

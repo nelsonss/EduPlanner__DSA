@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EduPlanner DSA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'brand-dark': '#1a202c',
+              'brand-dark-accent': '#2d3748',
+              'brand-light': '#f7fafc',
+              'brand-light-accent': '#edf2f7',
+              'brand-primary': '#4299e1',
+              'brand-secondary': '#4fd1c5',
+              'brand-success': '#48bb78',
+              'brand-warning': '#f6e05e',
+              'brand-danger': '#f56565',
+            },
+          }
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="https://aistudiocdn.com/react-tooltip@5.29.1/dist/react-tooltip.css" />
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.8.2",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.18.0",
+    "react-markdown": "https://aistudiocdn.com/react-markdown@^10.1.0",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.543.0",
+    "react-tooltip/": "https://aistudiocdn.com/react-tooltip@^5.29.1/",
+    "react-tooltip": "https://aistudiocdn.com/react-tooltip@^5.29.1",
+    "recharts": "https://aistudiocdn.com/recharts@^2.12.7",
+    "recharts/": "https://aistudiocdn.com/recharts@^2.12.7/"
+  }
+}
+</script>
+</head>
+  <body class="bg-brand-light-accent dark:bg-brand-dark dark:text-brand-light">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
