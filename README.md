@@ -47,6 +47,7 @@ This system transforms the traditional instructional cycle into a dynamic, respo
 *   **Icons:** Lucide React
 *   **State Management:** React Hooks (Component-level state)
 *   **Persistence:** `localStorage` for persisting assets, reports, and user preferences in the demo.
+<img width="2300" height="1296" alt="image" src="https://github.com/user-attachments/assets/bf06e589-1c64-4b0f-9061-3edb2d3f51eb" />
 
 ---
 
