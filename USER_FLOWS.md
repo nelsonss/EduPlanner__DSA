@@ -2,9 +2,7 @@
 
 This document outlines common scenarios, or "user flows," to illustrate how a professor would interact with the EduPlanner DSA platform. These stories are designed to show the practical application of the AI-powered tools in a real-world teaching context.
 
-[The Professors and the EduPlanner DSA System](https://g.co/gemini/share/0cf5e4a584f0 "Texto de ayuda opcional" target="_blank")
-
-[Texto del enlace](URL_de_la_página_externa "Texto de ayuda opcional" target="_blank")
+[The Professors and the EduPlanner DSA System](https://g.co/gemini/share/0cf5e4a584f0)
 
 ---
 
