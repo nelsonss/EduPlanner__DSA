@@ -23,7 +23,12 @@ This system transforms the traditional instructional cycle into a dynamic, respo
 ## 2. Key Features
 
 *   **Pedagogical Command Center:** A central dashboard providing a real-time overview of course health, student progress via a heatmap, and critical, AI-flagged alerts.
+
+<img width="2835" height="1452" alt="image" src="https://github.com/user-attachments/assets/e06994df-69ae-42b8-a5e2-9a86191129c5" />
+  
 *   **Instructional Design Lab:** An AI-powered workspace to generate complete, structured lesson plans from simple prompts and refine them with iterative feedback.
+<img width="2842" height="1550" alt="image" src="https://github.com/user-attachments/assets/6d9a74b4-f38e-4e53-baa1-421086a0eb1b" />
+
 *   **Student Observatory:** A macro-level view of class performance, featuring a scatter plot to identify student clusters and a live activity feed.
 *   **Evaluation & Optimization Center:** A dedicated module to submit existing course materials (quizzes, assignments) for AI evaluation, receive structured feedback, and automatically generate improved versions.
 *   **Multi-Agent Collaboration Workshop:** A chat-based interface where the professor can directly converse with the AI agent triad, delegate tasks, and receive detailed reports.
