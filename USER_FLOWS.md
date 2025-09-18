@@ -5,6 +5,8 @@ This document outlines common scenarios, or "user flows," to illustrate how a pr
 Story 1: [The Professors and the EduPlanner DSA System](https://g.co/gemini/share/0cf5e4a584f0)
 <img width="2340" height="966" alt="image" src="https://github.com/user-attachments/assets/772d634c-bc45-4584-a963-97043873208e" />
 
+Story 2: [La Orquesta del Futuro](https://g.co/gemini/share/2baf196f2764)
+
 ---
 
 ### **Scenario 1: Proactive Intervention for a Struggling Student**
