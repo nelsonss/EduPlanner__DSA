@@ -30,8 +30,14 @@ This system transforms the traditional instructional cycle into a dynamic, respo
 <img width="2842" height="1550" alt="image" src="https://github.com/user-attachments/assets/6d9a74b4-f38e-4e53-baa1-421086a0eb1b" />
 
 *   **Student Observatory:** A macro-level view of class performance, featuring a scatter plot to identify student clusters and a live activity feed.
+<img width="2830" height="1570" alt="image" src="https://github.com/user-attachments/assets/0e810ff0-3127-4ecd-bce6-ab16d102d36b" />
+
+
 *   **Evaluation & Optimization Center:** A dedicated module to submit existing course materials (quizzes, assignments) for AI evaluation, receive structured feedback, and automatically generate improved versions.
+<img width="2821" height="1541" alt="image" src="https://github.com/user-attachments/assets/7a2c77fc-843a-4a8b-a972-cf4247eb3aab" />
+ 
 *   **Multi-Agent Collaboration Workshop:** A chat-based interface where the professor can directly converse with the AI agent triad, delegate tasks, and receive detailed reports.
+<img width="2841" height="1546" alt="image" src="https://github.com/user-attachments/assets/18b554b9-2d23-43ad-811c-3d8f963c59cc" />
 
 ## 3. Technology Stack
 
