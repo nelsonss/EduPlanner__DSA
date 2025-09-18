@@ -5,6 +5,8 @@
 ![Gemini API](https://img.shields.io/badge/Google-Gemini%20API-blueviolet?logo=google)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-cyan?logo=tailwindcss)
 
+<img width="1024" height="1024" alt="Generated Image September 18, 2025 - 11_40AM" src="https://github.com/user-attachments/assets/7c6bc3c8-cd9f-4ad2-9362-3f07760aaa2e" />
+
 EduPlanner DSA is an intelligent instructional planning and student monitoring system designed for complex subjects like Data Structures and Algorithms. It serves as a pedagogical co-pilot for educators, leveraging a team of specialized AI agents to enhance, not replace, the teaching experience. Our core philosophy is **"Teacher in the Loop,"** ensuring the professor's expertise remains the central authority in the classroom.
 
 ## 1. Project Vision: For the Modern Educator
